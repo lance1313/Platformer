@@ -1,0 +1,689 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer0_0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer0_0.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer0_1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer0_1.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer0_2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer0_2.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer1_0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer1_0.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer1_1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer1_1.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer1_2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer1_2.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer2_0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer2_0.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer2_1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer2_1.png
+
+#begin Platformer_4_0/Platformer/Content/Backgrounds/Layer2_2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Backgrounds/Layer2_2.png
+
+#begin Platformer_4_0/Platformer/Content/Fonts/Hud.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:Platformer_4_0/Platformer/Content/Fonts/Hud.spritefont
+
+#begin Platformer_4_0/Platformer/Content/Levels/0.txt
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Content/Levels/0.txt
+
+#begin Platformer_4_0/Platformer/Content/Levels/1.txt
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Content/Levels/1.txt
+
+#begin Platformer_4_0/Platformer/Content/Levels/2.txt
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Content/Levels/2.txt
+
+#begin Platformer_4_0/Platformer/Content/Overlays/you_died.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Overlays/you_died.png
+
+#begin Platformer_4_0/Platformer/Content/Overlays/you_lose.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Overlays/you_lose.png
+
+#begin Platformer_4_0/Platformer/Content/Overlays/you_win.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Overlays/you_win.png
+
+#begin Platformer_4_0/Platformer/Content/Sounds/ExitReached.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/ExitReached.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/GemCollected.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/GemCollected.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/MonsterKilled.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/MonsterKilled.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/Music.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/Music.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/PlayerFall.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/PlayerFall.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/PlayerJump.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/PlayerJump.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/PlayerKilled.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/PlayerKilled.wma
+
+#begin Platformer_4_0/Platformer/Content/Sounds/Powerup.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Platformer_4_0/Platformer/Content/Sounds/Powerup.wma
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterA/Idle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterA/Idle.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterA/Run.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterA/Run.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterB/Idle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterB/Idle.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterB/Run.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterB/Run.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterC/Idle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterC/Idle.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterC/Run.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterC/Run.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterD/Idle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterD/Idle.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/MonsterD/Run.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/MonsterD/Run.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Player/Celebrate.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Player/Celebrate.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Player/Die.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Player/Die.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Player/Idle.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Player/Idle.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Player/Jump.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Player/Jump.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Player/Run.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Player/Run.png
+
+#begin Platformer_4_0/Platformer/Content/Sprites/Gem.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Sprites/Gem.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA0.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA1.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA2.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA3.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA4.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA5.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA5.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockA6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockA6.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockB0.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockB0.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/BlockB1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/BlockB1.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/Exit.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/Exit.png
+
+#begin Platformer_4_0/Platformer/Content/Tiles/Platform.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Content/Tiles/Platform.png
+
+#begin Platformer_4_0/Platformer/Content/Content.contentproj
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Content/Content.contentproj
+
+#begin Platformer_4_0/Platformer/Platformer/Properties/AppManifest.xml
+/importer:XmlImporter
+/processor:PassThroughProcessor
+/build:Platformer_4_0/Platformer/Platformer/Properties/AppManifest.xml
+
+#begin Platformer_4_0/Platformer/Platformer/Properties/AssemblyInfo.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Properties/AssemblyInfo.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Properties/WMAppManifest.xml
+/importer:XmlImporter
+/processor:PassThroughProcessor
+/build:Platformer_4_0/Platformer/Platformer/Properties/WMAppManifest.xml
+
+#begin Platformer_4_0/Platformer/Platformer/Accelerometer.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Accelerometer.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Animation.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Animation.cs
+
+#begin Platformer_4_0/Platformer/Platformer/AnimationPlayer.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/AnimationPlayer.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Background.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Platformer/Background.png
+
+#begin Platformer_4_0/Platformer/Platformer/Circle.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Circle.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Enemy.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Enemy.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Game.ico
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Platformer/Game.ico
+
+#begin Platformer_4_0/Platformer/Platformer/GameThumbnail.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Platformer_4_0/Platformer/Platformer/GameThumbnail.png
+
+#begin Platformer_4_0/Platformer/Platformer/Gem.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Gem.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Level.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Level.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Platformer (Phone).csproj
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Platformer (Phone).csproj
+
+#begin Platformer_4_0/Platformer/Platformer/Platformer (Windows).csproj
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Platformer (Windows).csproj
+
+#begin Platformer_4_0/Platformer/Platformer/Platformer (Xbox).csproj
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Platformer (Xbox).csproj
+
+#begin Platformer_4_0/Platformer/Platformer/PlatformerGame.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/PlatformerGame.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Player.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Player.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Program.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Program.cs
+
+#begin Platformer_4_0/Platformer/Platformer/RectangleExtensions.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/RectangleExtensions.cs
+
+#begin Platformer_4_0/Platformer/Platformer/Tile.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/Tile.cs
+
+#begin Platformer_4_0/Platformer/Platformer/TouchCollectionExtensions.cs
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer/Platformer/TouchCollectionExtensions.cs
+
+#begin Platformer_4_0/Microsoft Permissive License.rtf
+/importer:
+/processor:
+/build:Platformer_4_0/Microsoft Permissive License.rtf
+
+#begin Platformer_4_0/Platformer (Phone).sln
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer (Phone).sln
+
+#begin Platformer_4_0/Platformer (Windows).sln
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer (Windows).sln
+
+#begin Platformer_4_0/Platformer (Xbox).sln
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer (Xbox).sln
+
+#begin Platformer_4_0/Platformer.htm
+/importer:
+/processor:
+/build:Platformer_4_0/Platformer.htm
+
